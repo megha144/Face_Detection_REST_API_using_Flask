@@ -57,7 +57,7 @@ python app_mtcnn.py
 
 ### Result
 
-[!picture](output.jpg)
+![picture](output.jpg)
 
 ### Dependencies 
 
