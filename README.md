@@ -4,7 +4,8 @@ ________________________________________________________________________________
 
 # Face Detection Microservice
 ______________________________________________________________________________________
-
+* Inspiration
+[see here](https://medium.com/@neerajshukla1911/create-face-detection-rest-api-in-1-minute-ff38b9c77bc1)
 
 * Folder structure: 
    - mtcnn - MTCNN model files
